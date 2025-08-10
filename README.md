@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed shazly ahmed</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">💻 Frontend Developer | React & Next.js Specialist</h3>
+
+---
+
+### 🌐 Portfolio
+🔗 [**View My Work**](https://ahmed-shazly.vercel.app) – Showcasing selected projects in e-commerce, ERP systems, and custom CMS dashboards.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
