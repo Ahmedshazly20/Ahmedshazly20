@@ -50,22 +50,20 @@
 ### 🛒 E-commerce Platform  
 A scalable full-stack store with cart logic, checkout, dashboard & media handling.  
 **Tech:** React, Redux Toolkit, Node.js, MongoDB  
-🔗 Demo: *paste your link*  
-🔗 Repo: *link*
+
 
 ---
 
 ### 🧭 ERP Dashboard  
 Role-based access, analytics, reusable UI patterns.  
 **Tech:** React, RTK Query, Strapi  
-🔗 Repo: *link*
+
 
 ---
 
 ### 📰 Custom CMS  
 A modular content engine for fast publishing.  
 **Tech:** Next.js, TypeScript  
-🔗 Repo: *link*
 
 ---
 
