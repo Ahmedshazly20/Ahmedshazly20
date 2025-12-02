@@ -1,72 +1,85 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Shazly;Senior+Front-End+Developer;React+%26+Next.js+Specialist;Performance+Obsessed" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>Building Scalable, High-Performance Web Applications 🚀</h3>
-  <p>Based in Giza, Egypt 🇪🇬</p>
-  
-  <a href="https://www.linkedin.com/in/ahmedshazly20/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://ahmed-shazly.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:ahmedshazly2019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr />
-
-## ⚡ Impact & Achievements
-> *Data-driven results derived from my recent work experience:*
-
-| Metric | Achievement |
-| :--- | :--- |
-| **🚀 Performance** | [cite_start]Enhanced SaaS ERP performance by **25%** & reduced bundle size by **20%**[cite: 38, 39]. |
-| **⏱️ Efficiency** | [cite_start]Reduced project delivery times by **40%** using modern tooling & Stripe integration[cite: 13, 44]. |
-| **⚡ Latency** | [cite_start]Decreased API latency by **15%** using optimized caching strategies (React Query)[cite: 34]. |
-| **🛠️ Architecture** | [cite_start]Built complex administrative dashboards managing **14+ pages** with Redux Toolkit[cite: 33]. |
-
----
-
-## 💻 Tech Stack
-<div align="center">
-
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedshazly20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshazly20&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshazly20&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
-
----
+<h1 align="center">🚀 Ahmed Shazly</h1>
+<h3 align="center">Frontend Engineer — React • Next.js • TypeScript</h3>
 
 <p align="center">
-  <i>Let's build something amazing together.</i>
+  Building sleek web experiences & scalable dashboards.<br/>
+  3+ years crafting E-commerce stores, ERP dashboards, and custom CMS platforms.
+</p>
+
+---
+
+## ⚡ About Me  
+- 🎯 Frontend Engineer focused on performance, clean architecture & DX  
+- 🧩 Experienced with **E-commerce / ERP / CMS** product ecosystems  
+- 🛠 Currently deepening backend skills (Node.js • Express • MongoDB)  
+- 🌍 I enjoy turning complex systems into effortless user journeys  
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TS](https://skillicons.dev/icons?i=ts)
+![JS](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Redux](https://skillicons.dev/icons?i=redux)
+
+### Backend & DB
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+### Tools & Others
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+![Python](https://skillicons.dev/icons?i=python)
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-commerce Platform  
+A scalable full-stack store with cart logic, checkout, dashboard & media handling.  
+**Tech:** React, Redux Toolkit, Node.js, MongoDB  
+🔗 Demo: *paste your link*  
+🔗 Repo: *link*
+
+---
+
+### 🧭 ERP Dashboard  
+Role-based access, analytics, reusable UI patterns.  
+**Tech:** React, RTK Query, Strapi  
+🔗 Repo: *link*
+
+---
+
+### 📰 Custom CMS  
+A modular content engine for fast publishing.  
+**Tech:** Next.js, TypeScript  
+🔗 Repo: *link*
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedshazly20/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://dev.to/ahmedshazly20"><img src="https://skillicons.dev/icons?i=devto" width="40"/></a>
+  <a href="https://ahmed-shazly.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedshazly20&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshazly20&layout=compact&theme=tokyonight" />
 </p>
