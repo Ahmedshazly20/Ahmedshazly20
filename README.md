@@ -1,71 +1,72 @@
-<h1 align="center">Ahmed Shazly Ahmed 🚀</h1>
-<h3 align="center">Senior Front-End Developer | React.js & Next.js Performance Specialist</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Shazly;Senior+Front-End+Developer;React+%26+Next.js+Specialist;Performance+Obsessed" alt="Typing SVG" />
+</div>
 
-<p align="center">Results-driven Front-End Developer with extensive experience (3+ years) in building scalable, high-performance web applications. Proven ability to optimize core web vitals, enhance user experience, and lead projects with a focus on React.js, Next.js, and TypeScript.</p>
+<div align="center">
+  <h3>Building Scalable, High-Performance Web Applications 🚀</h3>
+  <p>Based in Giza, Egypt 🇪🇬</p>
+  
+  <a href="https://www.linkedin.com/in/ahmedshazly20/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ahmed-shazly.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:ahmedshazly2019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr />
+
+## ⚡ Impact & Achievements
+> *Data-driven results derived from my recent work experience:*
+
+| Metric | Achievement |
+| :--- | :--- |
+| **🚀 Performance** | [cite_start]Enhanced SaaS ERP performance by **25%** & reduced bundle size by **20%**[cite: 38, 39]. |
+| **⏱️ Efficiency** | [cite_start]Reduced project delivery times by **40%** using modern tooling & Stripe integration[cite: 13, 44]. |
+| **⚡ Latency** | [cite_start]Decreased API latency by **15%** using optimized caching strategies (React Query)[cite: 34]. |
+| **🛠️ Architecture** | [cite_start]Built complex administrative dashboards managing **14+ pages** with Redux Toolkit[cite: 33]. |
 
 ---
 
-## 💡 Key Highlights from My Experience
+## 💻 Tech Stack
+<div align="center">
 
-My work focuses on delivering measurable improvements in performance and efficiency:
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 
-* [cite_start]**Performance Optimization:** Enhanced SaaS ERP system performance by **25%** (measured by Google Lighthouse) through efficient rendering strategies and reduced final bundle size by **20%** via tree-shaking and component optimization[cite: 38, 39].
-* [cite_start]**Project Acceleration:** Integrated Stripe payment gateways and modern tooling to reduce project delivery time by up to **40%**[cite: 30, 44].
-* [cite_start]**Data & State Management:** Architected a comprehensive 14-page administrative dashboard using **Redux Toolkit** and implemented effective caching strategies with **React Query**, decreasing API latency by **15%**[cite: 33, 34].
-* [cite_start]**API Integration:** Independently integrated over **10 GraphQL endpoints** after self-learning, enabling complex data-fetching for core modules[cite: 40].
-* [cite_start]**Full-Stack Projects:** Delivered **6+ full-stack projects** (E-commerce, Real Estate) leveraging React.js, Next.js, **Tailwind CSS**, and **Strapi**[cite: 26, 47].
+<br/>
+
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ---
 
-## 📂 Portfolio & Projects
-🔗 **[View My Portfolio](https://ahmed-shazly.vercel.app)** | 🔗 **[Check out My E-commerce Platform](URL_OF_ECOMMERCE_PROJECT)**
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedshazly20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshazly20&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
+</div>
 
-* [cite_start]**E-commerce Platform (2024):** Engineered with React.js, Stripe, and Tailwind, achieving a **25% faster checkout process**[cite: 44].
-* [cite_start]**Real Estate CMS (2024):** Full-stack solution (React, Strapi, Redux Toolkit) with a custom-built Content Management System managing over 10 dynamic pages[cite: 47].
-* [cite_start]**Administrative Dashboards:** Built custom solutions for client requirements, including shopping cart logic and comprehensive booking/data management[cite: 27, 33].
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshazly20&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
-<h4 align="center">Frontend & State Management</h4>
 <p align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/></a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/atanas-g/react-query-logo/master/react-query-logo.png" alt="React Query" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Styling & UI Frameworks</h4>
-<p align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/logo.png" alt="Styled-Components" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">APIs, Backend & Tools</h4>
-<p align="center">
-      <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
-  <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Strapi_logo.svg" alt="Strapi" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmedshazly20/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🔥 GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedshazly20&show_icons=true&locale=en&theme=radical" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshazly20&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <i>Let's build something amazing together.</i>
 </p>
