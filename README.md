@@ -1,82 +1,92 @@
 <h1 align="center">🚀 Ahmed Shazly</h1>
-<h3 align="center">Frontend Engineer — React • Next.js • TypeScript</h3>
+
+<h3 align="center">
+Frontend Engineer • React • Next.js • TypeScript
+</h3>
 
 <p align="center">
-  Building sleek web experiences & scalable dashboards.<br/>
-  3+ years crafting E-commerce stores, ERP dashboards, and custom CMS platforms.
+Building modern web applications, scalable dashboards, and SaaS products.
+</p>
+
+<p align="center">
+3+ years of experience building E-commerce platforms, ERP systems, CMS solutions, and business management applications.
 </p>
 
 ---
 
-## ⚡ About Me  
-- 🎯 Frontend Engineer focused on performance, clean architecture & DX  
-- 🧩 Experienced with **E-commerce / ERP / CMS** product ecosystems  
-- 🛠 Currently deepening backend skills (Node.js • Express • MongoDB)  
-- 🌍 I enjoy turning complex systems into effortless user journeys  
+## ⚡ About Me
+
+- 🎯 Frontend Engineer focused on performance, scalability, and clean architecture
+- 🧩 Building products across E-commerce, ERP, CMS, and SaaS ecosystems
+- 🛠 Expanding my backend skills with Node.js, Express, and MongoDB
+- 🚀 Passionate about transforming business ideas into real products
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TS](https://skillicons.dev/icons?i=ts)
-![JS](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Sass](https://skillicons.dev/icons?i=sass)
-![Redux](https://skillicons.dev/icons?i=redux)
 
-### Backend & DB
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
+React • Next.js • TypeScript • JavaScript • Redux Toolkit • HTML • CSS • Sass • Tailwind CSS
 
-### Tools & Others
-![Git](https://skillicons.dev/icons?i=git)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Webpack](https://skillicons.dev/icons?i=webpack)
-![Python](https://skillicons.dev/icons?i=python)
+### Backend & Database
+
+Node.js • Express • MongoDB • MySQL • Firebase • GraphQL
+
+### Tools
+
+Git • Figma • Postman • Webpack • Python
 
 ---
 
 ## 📂 Featured Projects
 
-### 🛒 E-commerce Platform  
-A scalable full-stack store with cart logic, checkout, dashboard & media handling.  
-**Tech:** React, Redux Toolkit, Node.js, MongoDB  
+### 🏢 Operix System (SaaS)
 
+Business management SaaS platform designed for workspaces and service-based businesses, providing booking management, analytics, financial tracking, and cloud access from anywhere.
 
----
+🔗 https://www.operixsystem.com/ar
 
-### 🧭 ERP Dashboard  
-Role-based access, analytics, reusable UI patterns.  
-**Tech:** React, RTK Query, Strapi  
-
+**Tech:** React, TypeScript, Firebase
 
 ---
 
-### 📰 Custom CMS  
-A modular content engine for fast publishing.  
-**Tech:** Next.js, TypeScript  
+### 🛒 E-commerce Platform
+
+Scalable e-commerce solution with cart management, checkout flow, dashboard, and media handling.
+
+**Tech:** React, Redux Toolkit, Node.js, MongoDB
 
 ---
 
-## 🌐 Connect With Me  
+### 🧭 ERP Dashboard
+
+Dashboard with role-based permissions, analytics, and reusable UI components.
+
+**Tech:** React, RTK Query, Strapi
+
+---
+
+### 📰 Custom CMS
+
+Modular content management system focused on fast publishing workflows.
+
+**Tech:** Next.js, TypeScript
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedshazly20/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://dev.to/ahmedshazly20"><img src="https://skillicons.dev/icons?i=devto" width="40"/></a>
-  <a href="https://ahmed-shazly.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+  <a href="https://www.linkedin.com/in/ahmedshazly20/">LinkedIn</a> •
+  <a href="https://dev.to/ahmedshazly20">Dev.to</a> •
+  <a href="https://ahmed-shazly.vercel.app">Portfolio</a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedshazly20&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshazly20&layout=compact&theme=tokyonight" />
