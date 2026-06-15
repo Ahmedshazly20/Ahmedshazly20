@@ -29,13 +29,13 @@ Building modern web applications, scalable dashboards, and SaaS products.
 
 React • Next.js • TypeScript • JavaScript • Redux Toolkit • HTML • CSS • Sass • Tailwind CSS
 
-### Backend & Database
+### Backend integration & Database 
 
 Node.js • Express • MongoDB • MySQL • Firebase • GraphQL
 
 ### Tools
 
-Git • Figma • Postman • Webpack • Python
+Git • Figma • Postman • Webpack 
 
 ---
 
